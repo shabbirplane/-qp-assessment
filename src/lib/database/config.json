@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "myPassword",
+    "database": "QPAssessment",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
